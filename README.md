@@ -1,3 +1,6 @@
-# MyApp
-This is the line for my feature branch.
-This is another line in the README from the feature branch.
+# git-playground
+Testing some git features.
+
+Somebody else has added a new line!
+
+This is a new line we have added.
